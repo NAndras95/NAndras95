@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Account Stats](https://github-readme-stats-fork.vercel.app/api?username=NAndras95&count_private=true&show_icons=true&theme=dracula)](https://github.com/NAndras95)
-[![Top Languages (open-source)](https://github-readme-stats-fork.vercel.app/api/top-langs/?username=NAndras95&theme=dracula)](https://github.com/NAndras95)
+[![Account Stats](https://github-readme-stats-fork.vercel.app/api?username=nagyzekkyandras&count_private=true&show_icons=true&theme=dracula)](https://github.com/nagyzekkyandras)
+[![Top Languages (open-source)](https://github-readme-stats-fork.vercel.app/api/top-langs/?username=nagyzekkyandras&theme=dracula)](https://github.com/nagyzekkyandras)
 
 <!--
 **NAndras95/NAndras95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
